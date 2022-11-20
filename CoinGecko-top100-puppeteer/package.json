@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  },
+  "name": "coingecko_scraper",
+  "version": "1.0.0",
+  "description": "Scrape top 100 cryptocurrency prices from coingecko.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "virdi.code",
+  "license": "ISC"
+}
